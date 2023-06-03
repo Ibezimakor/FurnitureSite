@@ -1,0 +1,41 @@
+.Production-Service {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Production-Service h1 {
+  width: 17.9375rem;
+  height: 5.1875rem;
+  left: 36.0625rem;
+  top: 13.75rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  text-align: center;
+  margin-top: 6.25rem;
+  color: #151411;
+}
+
+.Production-Service h3 {
+  width: 31.5625rem;
+  height: 4rem;
+  left: 29.1875rem;
+  top: 20.1875rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  text-align: center;
+
+  color: #afadb5;
+}

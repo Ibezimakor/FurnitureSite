@@ -6,6 +6,7 @@ export default function ArticlesPage() {
   return (
     <div>
       <Navbar />
+      <div></div>
       <FooterBar />
     </div>
   );
