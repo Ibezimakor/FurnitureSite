@@ -1,0 +1,29 @@
+.Funiture-Header {
+  display: flex;
+  justify-content: center;
+  margin-top: 5.875rem;
+}
+
+.Funiture-HeaderText {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+  color: #151411;
+  text-align: center;
+}
+
+.Funiture-HeaderText2 {
+  margin-top: 1.875rem;
+  left: 20.125rem;
+  top: 26rem;
+  width: 49.75rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  text-align: center;
+  color: #afadb5;
+  font-family: "Plus Jakarta Sans";
+}

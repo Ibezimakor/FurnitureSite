@@ -1,0 +1,53 @@
+/*==================Benefit start=======================*/
+.BenefitBox {
+  display: flex;
+  justify-content: space-around;
+
+  align-items: self-start;
+  margin-top: 11.25rem;
+}
+.Benefit {
+  width: 18rem;
+  margin-left: 0.875rem;
+}
+
+.Benefit h2 {
+  height: 1.4375rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+  color: #ffb23f;
+  width: 4.625rem;
+}
+
+.Benefit h1 {
+  height: 7.125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+
+  color: #151411;
+  width: 26.6875rem;
+}
+
+/*==================Benefit Ends=======================*/
+.Benefit2 {
+  height: 6rem;
+  width: 37.1875rem;
+  margin-right: -14.75rem;
+}
+.Benefit2 h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.0625rem;
+  line-height: 180%;
+
+  color: #afadb5;
+  font-family: "Plus Jakarta Sans";
+}

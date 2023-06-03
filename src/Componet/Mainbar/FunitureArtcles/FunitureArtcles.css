@@ -1,0 +1,131 @@
+.FunitureArtcles {
+  display: flex;
+  justify-content: center;
+  gap: 3.125rem;
+  margin-top: 11.25rem;
+}
+
+.ArtcleSideBar1 h2 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+
+  color: #ffb23f;
+}
+
+.ArtcleSideBar1 h1 {
+  margin-top: 0.875rem;
+  width: 34rem;
+  height: 7.125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+}
+
+.ArtcleSideBar1 h3 {
+  margin-top: 1.875rem;
+  width: 34rem;
+  height: 2rem;
+  left: 6.25rem;
+  top: 289.875rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #afadb5;
+}
+
+.ArtcleSideBar1 img {
+  margin-top: 3.125rem;
+  width: 36.375rem;
+  height: 35.3125rem;
+  left: 6.25rem;
+  top: 295rem;
+}
+
+.arrow-btn2 {
+  width: 4.375rem;
+  height: 4.375rem;
+  margin-left: 32.013rem;
+  top: 329.4375rem;
+  border: none;
+  position: absolute;
+  background: #518581;
+  box-shadow: 0rem 0.25rem 5rem rgba(175, 173, 181, 0.2);
+  font-size: 1.875rem;
+  color: white;
+}
+.arrow-btn1 {
+  position: absolute;
+  width: 4.375rem;
+  height: 4.375rem;
+
+  margin-left: 27.875rem;
+
+  top: 329.4375rem;
+  border: none;
+  background: #ffffff;
+  box-shadow: 0rem 0.25rem 5.625rem rgba(175, 173, 181, 0.2);
+  font-size: 1.875rem;
+}
+
+/* ======================== ARTCLE SIDE BAR 2 ======================================= */
+
+.ArtcleSideBar2 {
+  display: flex;
+  margin-top: 1.875rem;
+  gap: 1rem;
+}
+
+.ArtcleSideBar2 img {
+  width: 16.25rem;
+  height: 16.25rem;
+}
+
+.ArtcleWrite {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+
+  width: 20.5625rem;
+  height: 12.8125rem;
+}
+
+.ArtcleWrite h3 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+
+  color: #afadb5;
+}
+
+.ArtcleWrite h1 {
+  margin-top: 1.3125rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.ArtcleWrite h4 {
+  margin-top: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.0625rem;
+  line-height: 180%;
+  font-family: "Plus Jakarta Sans";
+  color: #afadb5;
+}

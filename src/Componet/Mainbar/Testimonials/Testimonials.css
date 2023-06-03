@@ -1,0 +1,38 @@
+.Testimonials {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 11.25rem;
+}
+
+.Testimonials h2 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+
+  color: #ffb23f;
+}
+
+.Testimonials h1 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+  margin-top: 0.875rem;
+  color: #151411;
+}
+
+.Testimonials h3 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  margin-top: 1.875rem;
+  color: #afadb5;
+}

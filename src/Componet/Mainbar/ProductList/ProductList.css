@@ -1,0 +1,67 @@
+.ProductionList {
+  margin-top: 11.125rem;
+}
+
+.Product-Card {
+  align-items: flex-start;
+
+  gap: 0.875rem;
+  width: 21.625rem;
+
+  display: flex;
+
+  flex-direction: column;
+}
+
+.Product-Card-Description {
+  flex-direction: column;
+  align-items: flex-start;
+
+  gap: 0.875rem;
+
+  height: 9.875rem;
+  display: flex;
+}
+
+.Product-Card-Description h2 {
+  height: 1.4375rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+
+  color: #afadb5;
+  width: 6.5rem;
+}
+
+.Product-Card-Description h1 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.625rem;
+  line-height: 130%;
+  letter-spacing: 0.01em;
+  color: #151411;
+}
+
+.Product-Card-Description h4 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #afadb5;
+}
+
+.Product-Card-Description h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 130%;
+  margin-top: 1.125rem;
+  color: #151411;
+  font-family: "Plus Jakarta Sans";
+}

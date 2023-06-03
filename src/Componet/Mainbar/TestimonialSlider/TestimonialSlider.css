@@ -1,0 +1,43 @@
+.Testimonials-Slider {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3.125rem;
+  gap: 3.375rem;
+}
+
+.Testimonial {
+  width: 33.125rem;
+  border-radius: 0.625rem;
+  height: 16rem;
+  box-shadow: 0.8125rem 0.375rem 1.125rem rgba(162, 159, 159, 0.2);
+}
+
+.Testimonial-Text {
+  text-align: start;
+  padding-left: 1.5rem;
+}
+
+.Testimonial-Text h1 {
+  width: 31.0625rem;
+  height: 4rem;
+  margin-top: 1.625rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #afadb5;
+}
+
+.Testimonial img {
+  margin-left: 1.5rem;
+
+  margin-top: 1.625rem;
+}
+/* font-family: 'Plus Jakarta Sans';
+      <img src="" alt="" />
+      <a href=""></a> */

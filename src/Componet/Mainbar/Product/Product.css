@@ -1,0 +1,50 @@
+.Funiture-Product {
+  margin-top: 11.25rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.875rem;
+
+  display: flex;
+}
+.Funiture-Product h3 {
+  height: 1.4375rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+
+  color: #ffb23f;
+  width: 4.5rem;
+}
+
+.Funiture-Product h1 {
+  height: 3.5625rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+
+  color: #151411;
+  width: 27.5rem;
+}
+
+.Funiture-Product h2 {
+  width: 41rem;
+
+  top: 128.125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  text-align: center;
+
+  color: #afadb5;
+  position: absolute;
+}

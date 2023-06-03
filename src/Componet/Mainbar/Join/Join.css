@@ -1,0 +1,64 @@
+.JoinDescription {
+  display: flex;
+  text-align: center;
+  margin-top: 11.3125rem;
+  justify-content: space-around;
+  margin-right: 3.3125rem;
+}
+
+.JoinDescription h1 {
+  width: 47.1875rem;
+  height: 3.5625rem;
+  left: 6.25rem;
+  top: 344.6875rem;
+
+  /* Headings/H2 - Bold 44 */
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+  /* or 3.5625rem */
+
+  /* Text Color */
+
+  color: #151411;
+}
+
+.JoinDescription .bbbtn {
+  justify-content: center;
+  align-items: center;
+  padding: 0.9375rem 1.875rem;
+  border: #518581;
+  width: 12.5625rem;
+  height: 3.3125rem;
+  color: white;
+  background: #518581;
+  display: flex;
+}
+
+.Icon {
+  width: 2rem;
+  font-size: 2.9375rem;
+  margin-top: -0.375rem;
+  color: white;
+  display: flex;
+
+  align-items: center;
+}
+
+.JoinDescription button h2 {
+  font-family: "Plus Jakarta Sans";
+  width: 15.375rem;
+  height: 1.4375rem;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+
+  text-align: center;
+
+  color: #ffffff;
+}

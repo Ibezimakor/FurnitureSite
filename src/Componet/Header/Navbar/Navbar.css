@@ -1,0 +1,64 @@
+.Funiture-Navbar {
+  display: flex;
+  width: 98vw;
+  height: 7.5rem;
+  border-bottom: 0.125rem solid #f3f3f3;
+  align-content: center;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Funiture-Logo {
+  height: 2.625rem;
+  margin-left: -3.8125rem;
+}
+
+.Funiture-Menulist {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 0.1875rem solid #518581;
+}
+
+.Funiture-Menulist li {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  list-style: none;
+  padding: 2.1875rem;
+  border-radius: 0.1875rem solid #518581;
+}
+
+.Funiture-Menulist a:hover {
+  margin-bottom: 2.0625rem;
+  border-bottom: 0.1875rem solid #518581;
+}
+
+.Funiture-Menulist a {
+  text-decoration: none;
+  color: #151411;
+}
+
+.Funiture-Account-icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Funiture-Account-icon a {
+  width: 1.875rem;
+  list-style: none;
+  text-decoration: none;
+  color: #151411;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.25rem;
+  padding: 0.625rem;
+}
+
+.Funiture-Account-icon a:hover {
+  border-bottom: 0.375rem solid #518581;
+  border-radius: 0.875rem;
+}

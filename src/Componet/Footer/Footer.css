@@ -1,0 +1,57 @@
+.Footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 5.375rem;
+  margin-bottom: 5.5rem;
+}
+
+.FooterDiscrition {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 0.0625rem solid #afadb5;
+  width: 93.5rem;
+}
+
+.FooterMenu {
+  display: flex;
+  gap: 6.25rem;
+  margin-top: 5rem;
+}
+
+.FooterMenu h1 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.FooterMenu ul li {
+  margin-top: 0.75rem;
+
+  list-style: none;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #151411;
+}
+
+.FooterLogo h2 {
+  margin-top: 2.25rem;
+  width: 31.5625rem;
+  height: 4rem;
+  left: 0rem;
+  top: 10.25rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  color: #151411;
+}

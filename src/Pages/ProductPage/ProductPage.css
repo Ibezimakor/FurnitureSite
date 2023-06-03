@@ -1,0 +1,337 @@
+.Production-Display {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Production-Display h1 {
+  width: 17.9375rem;
+  height: 5.1875rem;
+  left: 36.0625rem;
+  top: 13.75rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  text-align: center;
+  margin-top: 6.25rem;
+  color: #151411;
+}
+
+.Production-Display h3 {
+  width: 37.5rem;
+  height: 4rem;
+  left: 26.1875rem;
+  top: 19.8125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  margin-top: 0.875rem;
+  text-align: center;
+
+  color: #afadb5;
+}
+
+.ProductslideDisplay {
+  display: flex;
+  margin-top: 3.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProductslideDisplay img {
+  width: -webkit-fill-available;
+  height: 43.25rem;
+}
+
+.ProductslideDisplayArticle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 15px;
+
+  position: absolute;
+  width: 453px;
+  height: 195px;
+  left: 132px;
+  top: 710px;
+}
+
+.ProductslideDisplayArticle h2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  gap: 10px;
+
+  width: 93px;
+  height: 41px;
+
+  color: #ffffff;
+
+  background: #518581;
+  border-radius: 16px;
+}
+.ProductslideDisplayArticle h1 {
+  width: 453px;
+  height: 57px;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #ffffff;
+}
+
+.ProductslideDisplayArticle h3 {
+  width: 416px;
+  height: 62px;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 130%;
+
+  color: #ffffff;
+
+  opacity: 0.8;
+}
+.ProductSearchBar {
+  width: 64.375rem;
+  height: 5.25rem;
+  left: 6.25rem;
+  top: 61.6875rem;
+
+  display: flex;
+  align-content: center;
+  align-items: center;
+
+  background: #ffffff;
+  box-shadow: 0rem 0.25rem 7.5rem rgba(175, 173, 181, 0.15);
+  justify-content: space-between;
+}
+
+.ProductSearch-Container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  gap: 1.25rem;
+  margin-top: 3.125rem;
+}
+
+.ProductSearchBar2 {
+  display: flex;
+  padding-left: 1.625rem;
+  align-content: center;
+  align-items: center;
+  font-size: 1.75rem;
+}
+
+.ProductSearchBar input {
+  display: flex;
+
+  align-items: center;
+  font-size: 1.125rem;
+  gap: 1.125rem;
+  border: none;
+  width: 15.625rem;
+  height: 2rem;
+}
+
+.SearchBar input:focus {
+  outline: none;
+}
+
+.Productbutton-bnt {
+  width: 8.625rem;
+  height: 3.375rem;
+  left: 58.75rem;
+  top: 36.0625rem;
+  margin-right: 0.9375rem;
+  background: #518581;
+  border: #518581;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+  font-family: "Plus Jakarta Sans";
+
+  color: #ffffff;
+}
+
+.Productbutton-bnt:hover {
+  background: transparent;
+  border: 0.1875rem solid #518581;
+  color: #518581;
+  border-radius: 0.625rem;
+}
+
+.productFind {
+  width: 11.875rem;
+  height: 5.25rem;
+  left: 71.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  top: 61.6875rem;
+  background: #ffffff;
+  box-shadow: 0rem 0.25rem 7.5rem rgba(175, 173, 181, 0.15);
+}
+
+.productFind .bbtn {
+  gap: 0.75rem;
+  text-align: center;
+  width: 10.375rem;
+  height: 5rem;
+  border: none;
+  background-color: white;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+}
+
+.TotalProduct {
+  display: flex;
+  margin-top: 3.125rem;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 3.5625rem;
+}
+
+.TotalProductText {
+  display: flex;
+  align-items: center;
+
+  margin-right: 13.8125rem;
+}
+
+.TotalProductText h1 {
+  /* width: 17.875rem; */
+  height: 3.5625rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.TotalProductText span {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0.625rem 1rem;
+  gap: 0.625rem;
+  width: 1.75rem;
+  height: 1.3125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 130%;
+
+  color: #518581;
+
+  /* width: 3.75rem; */
+  height: 1.875rem;
+
+  background: #f9f9f9;
+  border-radius: 1.25rem;
+}
+.SortBnt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 0.625rem;
+
+  width: 8.6875rem;
+  height: 3.125rem;
+  left: 75.0625rem;
+  top: 70.0625rem;
+  border: 0.0938rem solid #f9f9f9;
+}
+
+.ProductSerivcePortofolio {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 11.25rem;
+  align-items: center;
+}
+
+.ProductSerivcePortofolio h3 {
+  width: 89px;
+  height: 23px;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+  color: #ffb23f;
+}
+
+.ProductSerivcePortofolio h1 {
+  width: 491px;
+  height: 114px;
+  margin-top: 0.625rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.ProductSerivcePortofolio h4 {
+  width: 505px;
+  height: 64px;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+
+  color: #afadb5;
+}
+
+.ProductSerivcePortofolio .bbtn {
+  width: 136px;
+  height: 23px;
+  margin-top: 1.25rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+  border: none;
+  background: none;
+
+  color: #518581;
+}

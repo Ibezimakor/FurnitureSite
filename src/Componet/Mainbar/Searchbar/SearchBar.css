@@ -1,0 +1,63 @@
+.SearchBar {
+  position: absolute;
+  width: 50.625rem;
+  height: 5.25rem;
+  margin-left: 38.625rem;
+  margin-top: 3.125rem;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: 0rem 0.25rem 5rem rgba(175, 173, 181, 0.2);
+  justify-content: space-between;
+}
+
+.SearchBar2 {
+  display: flex;
+  padding-left: 1.625rem;
+  align-content: center;
+  align-items: center;
+  font-size: 1.75rem;
+}
+
+.SearchBar input {
+  display: flex;
+  padding: 0.625rem;
+
+  align-items: center;
+  font-size: 1.125rem;
+  gap: 1.125rem;
+  border: none;
+  font-family: "Plus Jakarta Sans";
+  width: 15.625rem;
+  height: 2rem;
+}
+
+.SearchBar input:focus {
+  outline: none;
+}
+
+.button-bnt {
+  width: 10.625rem;
+  height: 3.375rem;
+  left: 58.75rem;
+  top: 36.0625rem;
+  margin-right: 0.9375rem;
+  background: #518581;
+  border: #518581;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 130%;
+  font-family: "Plus Jakarta Sans";
+
+  color: #ffffff;
+}
+
+.button-bnt:hover {
+  background: transparent;
+  border: 0.1875rem solid #518581;
+  color: #518581;
+  border-radius: 0.625rem;
+}

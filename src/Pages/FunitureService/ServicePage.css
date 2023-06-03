@@ -1,0 +1,423 @@
+.Production-Service {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Production-Service h1 {
+  width: 17.9375rem;
+  height: 5.1875rem;
+  left: 36.0625rem;
+  top: 13.75rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  text-align: center;
+  margin-top: 6.25rem;
+  color: #151411;
+}
+
+.Production-Service h3 {
+  width: 31.5625rem;
+  height: 4rem;
+  left: 29.1875rem;
+  top: 20.1875rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  text-align: center;
+
+  color: #afadb5;
+}
+
+.ProductsService {
+  display: flex;
+  margin-top: 3.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProductsService img {
+  width: 77.5rem;
+  height: 34.375rem;
+}
+
+.ProductSerivceIteam {
+  display: flex;
+  margin-top: 3.125rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.SerivceIteam {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(17.5rem, 1fr));
+  border-top: 0.125rem solid #f3f3f3;
+  gap: 1.875rem;
+  width: 77.5rem;
+}
+
+.Iteams {
+  margin-top: 3.125rem;
+}
+
+.Iteams h1 {
+  width: 4.5rem;
+  height: 5.1875rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  color: #518581;
+}
+
+.Iteams h2 {
+  width: 20.8125rem;
+  height: 1.9375rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 130%;
+  margin-top: 1.625rem;
+  color: #151411;
+}
+
+.Iteams h3 {
+  width: 22.8125rem;
+  height: 6rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  margin-top: 0.375rem;
+  color: #afadb5;
+}
+
+.Iteams2 {
+  margin-top: 1.875rem;
+}
+
+.Iteams2 h1 {
+  width: 4.5rem;
+  height: 5.1875rem;
+  margin-top: 1.625rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  color: #518581;
+}
+
+.Iteams2 h2 {
+  width: 20.8125rem;
+  height: 1.9375rem;
+  margin-top: 1.625rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.Iteams2 h3 {
+  width: 22.8125rem;
+  height: 6rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  margin-top: 0.375rem;
+  color: #afadb5;
+}
+
+.ServiceDisplayBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 3.25rem;
+}
+
+.ServiceDisplay2Box {
+  margin-left: 1.875rem;
+}
+
+.ServiceDisplay {
+  width: 31.5625rem;
+  height: 39.5rem;
+
+  background: linear-gradient(
+      180deg,
+      rgba(21, 20, 17, 0) 35.38%,
+      #151411 137.5%
+    ),
+    url(../../Asset/ServiceImage2.png);
+}
+.DisplayText {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0rem;
+  gap: 0.875rem;
+  margin-top: 26.125rem;
+  width: 27.8125rem;
+  height: 7.375rem;
+  margin-left: 2.25rem;
+}
+
+.ServiceDisplay h1 {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.625rem;
+  line-height: 130%;
+
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+}
+
+.ServiceDisplay h3 {
+  width: 27.8125rem;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #ffffff;
+
+  opacity: 0.7;
+}
+
+.ServiceDisplay h2 {
+  width: 5.5rem;
+  height: 2rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  /* margin-top: 0.875rem; */
+  color: #ffffff;
+}
+
+.ServiceDisplay1 {
+  width: 44.0625rem;
+  height: 18.8125rem;
+
+  background: linear-gradient(
+      180deg,
+      rgba(21, 20, 17, 0) 35.38%,
+      #151411 137.5%
+    ),
+    url(../../Asset/ServiceImage3.png);
+}
+
+.ServiceDisplay2 {
+  width: 44.0625rem;
+  height: 18.8125rem;
+
+  margin-top: 1.875rem;
+  background: linear-gradient(
+      180deg,
+      rgba(21, 20, 17, 0) 35.38%,
+      #151411 137.5%
+    ),
+    url(../../Asset/ServiceImage4.png);
+}
+
+.DisplayText1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0rem;
+  gap: 0.875rem;
+
+  position: absolute;
+  width: 28.875rem;
+  height: 7.375rem;
+  margin-left: 1.875rem;
+  top: 133.9375rem;
+}
+
+.DisplayText1 h1 {
+  width: 28.875rem;
+  height: 2.125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.625rem;
+  line-height: 130%;
+
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+}
+
+.DisplayText1 h3 {
+  width: 27.8125rem;
+
+  font-family: "Eudoxus Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #ffffff;
+
+  opacity: 0.7;
+}
+
+.DisplayText1 h2 {
+  width: 5.5rem;
+  height: 2rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  /* margin-top: 0.875rem; */
+  color: #ffffff;
+}
+
+.DisplayText2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0rem;
+  gap: 0.875rem;
+
+  position: absolute;
+  width: 27.8125rem;
+  height: 7.375rem;
+  margin-left: 1.875rem;
+  top: 153rem;
+}
+
+.DisplayText2 h1 {
+  width: 28.875rem;
+  height: 2.125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.625rem;
+  line-height: 130%;
+
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+}
+
+.DisplayText2 h3 {
+  width: 27.8125rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  color: #ffffff;
+
+  opacity: 0.7;
+}
+
+.DisplayText2 h2 {
+  width: 5.5rem;
+  height: 2rem;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+  /* margin-top: 0.875rem; */
+  color: #ffffff;
+}
+.SeriveWriteup {
+  display: flex;
+  text-align: center;
+  margin-top: 11.3125rem;
+  justify-content: space-around;
+  margin-right: 3.3125rem;
+}
+
+.SeriveWriteup h1 {
+  width: 394px;
+  height: 114px;
+  left: 100px;
+  top: 2790px;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #151411;
+}
+
+.SeriveWriteup button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 30px;
+  gap: 10px;
+  width: 201px;
+  height: 50px;
+  background: #518581;
+}
+
+.Writeup {
+  display: flex;
+  justify-self: start;
+}
+
+.icon {
+  width: 2rem;
+  font-size: 2.9375rem;
+  margin-top: -0.099rem;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.SeriveWriteup button h2 {
+  width: 82px;
+  height: 23px;
+
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+
+  text-align: center;
+
+  color: #ffffff;
+}
