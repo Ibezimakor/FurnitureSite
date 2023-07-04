@@ -1,7 +1,7 @@
 import React from "react";
 import "./ProductDescription.css";
-import WorkSample from "../../../Asset/WorkSmaple.png";
-import WorkSample2 from "../../../Asset/WorkSmaple 2.png";
+import WorkSample from "../../../Asset/images/WorkSmaple.png";
+import WorkSample2 from "../../../Asset/images/WorkSmaple 2.png";
 
 export default function ProductDescription() {
   return (

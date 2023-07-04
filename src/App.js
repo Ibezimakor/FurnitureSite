@@ -1,5 +1,8 @@
 import React from "react";
 import "./App.css";
+// {
+/* Imported Documents from Components */
+// }
 
 import Navbar from "./Componet/Header/Navbar/Navbar";
 import HeaderText from "./Componet/Mainbar/Header/HeaderText";
@@ -14,6 +17,10 @@ import FunitureArtcles from "./Componet/Mainbar/FunitureArtcles/FunitureArtcles"
 import FooterBar from "./Componet/Footer/FooterBar";
 import Join from "./Componet/Mainbar/Join/Join";
 import SearchBar from "./Componet/Mainbar/Searchbar/SearchBar";
+
+// {
+/* End Imported Documents from Components */
+// }
 
 export default function App() {
   return (

@@ -27,7 +27,8 @@
 }
 
 .RatingService h1 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.5rem;
@@ -43,5 +44,5 @@
   line-height: 180%;
   margin-top: 1.25rem;
   color: #afadb5;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
 }

@@ -1,9 +1,9 @@
 import React from "react";
 import "./ProductList.css";
-import Bookshelf from "../../../Asset/BookShelf.png";
-import whiteChair from "../../../Asset/White Aesthetic Chair.png";
-import Sofa from "../../../Asset/Sofa Emupuk Banget.png";
-import bardono from "../../../Asset/Bardono smart Lamp.png";
+import Bookshelf from "../../../Asset/images/BookShelf.png";
+import whiteChair from "../../../Asset/images/White Aesthetic Chair.png";
+import Sofa from "../../../Asset/images/Sofa Emupuk Banget.png";
+import bardono from "../../../Asset/images/Bardono smart Lamp.png";
 
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";

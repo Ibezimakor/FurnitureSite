@@ -1,6 +1,6 @@
 import React from "react";
 import "./Productiteams.css";
-import WhiteAestheti from "../../Asset/White Aesthetic Chair.png";
+import WhiteAestheti from "../../Asset/images/White Aesthetic Chair.png";
 import { NavLink } from "react-router-dom";
 
 export default function Productiteams() {

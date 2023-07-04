@@ -5,7 +5,7 @@ import App from "./App";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import ProductPage from "./Pages/ProductPage/ProductPage";
-import ArticlesPage from "./Pages/FunitureArticles/ArticlesPage";
+import ArticlesPage from "./Pages/FunitureArticles/Article/ArticlesPage";
 import ServicePage from "./Pages/FunitureService/ServicePage";
 import AboutUsPage from "./Pages/FunitureAboutUs/AboutusPage";
 import DetailsPage from "./Pages/FunitureProductDetals/DetailsPage";

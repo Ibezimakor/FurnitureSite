@@ -3,9 +3,9 @@ import "./ProductDetailsPage.css";
 
 import Navbar from "../../Componet/Header/Navbar/Navbar";
 import FooterBar from "../../Componet/Footer/FooterBar";
-import whiteChair from "../../Asset/White Aesthetic Chair.png";
-import WoodClock from "../../Asset/Wooden Aesthetic Clock.png";
-import WoodMirror from "../../Asset/Wooden Mirror.png";
+import whiteChair from "../../Asset/images/White Aesthetic Chair.png";
+import WoodClock from "../../Asset/images/Wooden Aesthetic Clock.png";
+import WoodMirror from "../../Asset/images/Wooden Mirror.png";
 
 export default function DetailsPage() {
   return (

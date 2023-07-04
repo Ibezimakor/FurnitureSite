@@ -12,16 +12,12 @@
   left: 6.25rem;
   top: 344.6875rem;
 
-  /* Headings/H2 - Bold 44 */
+  font-family: "Encode Sans", sans-serif;
 
-  font-family: "Plus Jakarta Sans";
   font-style: normal;
   font-weight: 700;
   font-size: 2.75rem;
   line-height: 130%;
-  /* or 3.5625rem */
-
-  /* Text Color */
 
   color: #151411;
 }
@@ -49,7 +45,8 @@
 }
 
 .JoinDescription button h2 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   width: 15.375rem;
   height: 1.4375rem;
 

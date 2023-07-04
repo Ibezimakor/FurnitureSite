@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../../Componet/Header/Navbar/Navbar";
 import FooterBar from "../../Componet/Footer/FooterBar";
-import ProductImageDisplay from "../../Asset/Product display image.png";
+import ProductImageDisplay from "../../Asset/images/Product display image.png";
 import { CiSearch } from "react-icons/ci";
 import { FiFilter } from "react-icons/fi";
 

@@ -20,7 +20,8 @@
   width: 29rem;
   height: 3.5625rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 2.75rem;
@@ -33,7 +34,8 @@
   width: 21.625rem;
   /* height: 32px;
   margin-top: 1.625rem; */
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -82,7 +84,8 @@
 }
 /* ==================================================================END OF BOXING COLOR ====================================================== */
 .ProductView h6 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -96,7 +99,8 @@
   width: 512px;
 
   margin-top: 20px;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -109,7 +113,8 @@
   width: 151px;
   height: 57px;
   margin-top: 30px;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 44px;
@@ -133,7 +138,8 @@ span {
   width: 93px;
   height: 32px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -146,7 +152,8 @@ span {
   width: 17.8125rem;
   height: 3.625rem;
   background-color: #518581;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.125rem;
@@ -161,7 +168,8 @@ span {
   width: 17.8125rem;
   height: 3.625rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.125rem;
@@ -190,7 +198,7 @@ span {
 .RelatedItems {
   height: 2.625rem;
   margin-left: 6.25rem;
-  font-family: "Eudoxus Sans";
+  font-family: "Encode Sans", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 2rem;
@@ -224,7 +232,8 @@ span {
 }
 
 .RelatedCard h5 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.125rem;
@@ -234,7 +243,8 @@ span {
 }
 
 .RelatedCard h1 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.625rem;
@@ -246,7 +256,8 @@ span {
 }
 
 .RelatedCard h4 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -256,7 +267,8 @@ span {
 }
 
 .RelatedCard h2 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.5rem;

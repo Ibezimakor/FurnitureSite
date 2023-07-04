@@ -1,6 +1,6 @@
 import React from "react";
 import "./TestimonialSlider.css";
-import RatingIcon from "../../../Asset/Rating Icon.png";
+import RatingIcon from "../../../Asset/images/Rating Icon.png";
 export default function TestimonialSlider() {
   return (
     <div className="Testimonials-Slider">

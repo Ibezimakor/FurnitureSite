@@ -1,15 +1,18 @@
 import React from "react";
 import "./Footer.css";
-import Logo from "../../Asset/Funiture-Logo.png";
+import Logo from "../../Asset/images/Funiture-Logo.png";
+import { NavLink } from "react-router-dom";
 
 export default function FooterBar() {
   return (
     <footer className="Footer">
-      <div className="FooterDiscrition">
-        <div className="FooterLogo">
-          <div>
-            <img src={Logo} alt="" />
-          </div>
+      <div className="Footer_Discrition">
+        <div className="Footer_Logo">
+          <NavLink to="/">
+            <div>
+              <img src={Logo} alt="Funiture Logo" />
+            </div>
+          </NavLink>
           <div>
             <h2>
               Lalasia is digital agency that help you make better
@@ -17,7 +20,8 @@ export default function FooterBar() {
             </h2>
           </div>
         </div>
-        <div className="FooterMenu">
+
+        <div className="Footer_Menu">
           <div>
             <h1>Product</h1>
             <ul>

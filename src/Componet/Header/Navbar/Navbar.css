@@ -1,4 +1,4 @@
-.Funiture-Navbar {
+.Funiture_Navbar {
   display: flex;
   width: 98vw;
   height: 7.5rem;
@@ -8,20 +8,19 @@
   align-items: center;
 }
 
-.Funiture-Logo {
+.Funiture_Logo {
   height: 2.625rem;
   margin-left: -3.8125rem;
 }
 
-.Funiture-Menulist {
+.Funiture_Menulist {
   display: flex;
   justify-content: space-between;
   border-radius: 0.1875rem solid #518581;
 }
 
-.Funiture-Menulist li {
-  font-family: "Plus Jakarta Sans", sans-serif;
-  font-style: normal;
+.Funiture_Menulist li {
+  font-family: "Encode Sans", sans-serif;
   font-weight: 500;
   font-size: 1.125rem;
   line-height: 180%;
@@ -30,22 +29,22 @@
   border-radius: 0.1875rem solid #518581;
 }
 
-.Funiture-Menulist a:hover {
+.Funiture_Menulist a:hover {
   margin-bottom: 2.0625rem;
   border-bottom: 0.1875rem solid #518581;
 }
 
-.Funiture-Menulist a {
+.Funiture_Menulist a {
   text-decoration: none;
   color: #151411;
 }
 
-.Funiture-Account-icon {
+.Funiture_Account_icon {
   display: flex;
   justify-content: space-between;
 }
 
-.Funiture-Account-icon a {
+.Funiture_Account_icon a {
   width: 1.875rem;
   list-style: none;
   text-decoration: none;
@@ -58,7 +57,7 @@
   padding: 0.625rem;
 }
 
-.Funiture-Account-icon a:hover {
+.Funiture_Account_icon a:hover {
   border-bottom: 0.375rem solid #518581;
   border-radius: 0.875rem;
 }

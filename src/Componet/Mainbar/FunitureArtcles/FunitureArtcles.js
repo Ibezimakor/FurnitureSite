@@ -1,8 +1,8 @@
 import React from "react";
 import "./FunitureArtcles.css";
 
-import ArtclesImage from "../../../Asset/Artcles Image.png";
-import ArtclesideImage from "../../../Asset/Artcleside Image.png";
+import ArtclesImage from "../../../Asset/images/Artcles Image.png";
+import ArtclesideImage from "../../../Asset/images/Artcleside Image.png";
 import { HiOutlineArrowLongLeft } from "react-icons/hi2";
 import { HiOutlineArrowLongRight } from "react-icons/hi2";
 

@@ -1,8 +1,8 @@
 import React from "react";
 import "./ServiceRating.css";
-import Affordable from "../../../Asset/Affordable Price.png";
-import Fast from "../../../Asset/Fast and on time.png";
-import Many from "../../../Asset/Many choices.png";
+import Affordable from "../../../Asset/images/Affordable Price.png";
+import Fast from "../../../Asset/images/Fast and on time.png";
+import Many from "../../../Asset/images/Many choices.png";
 
 export default function ServiceRating() {
   return (

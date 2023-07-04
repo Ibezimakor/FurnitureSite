@@ -1,0 +1,118 @@
+.Production_Article {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Production_Article h1 {
+  width: 19.9375rem;
+  height: 5.1875rem;
+  left: 36.0625rem;
+  top: 13.75rem;
+
+  font-family: "Encode Sans", sans-serif;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 130%;
+
+  text-align: center;
+  margin-top: 6.25rem;
+  color: #151411;
+}
+
+.Production_Article h3 {
+  width: 36.5625rem;
+  height: 4rem;
+  left: 29.1875rem;
+  top: 20.1875rem;
+
+  font-family: "Encode Sans", sans-serif;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 180%;
+
+  text-align: center;
+
+  color: #afadb5;
+}
+.Article_Card {
+  display: flex;
+  justify-content: center;
+  margin-top: 3.12rem;
+}
+
+.Article_Card img {
+  width: 90.5rem;
+  height: 42.375rem;
+}
+
+.Article_Card_Discription {
+  position: absolute;
+  margin: -143px 0 0 455px;
+  width: 67.5rem;
+  height: 15.5rem;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 140px 0px rgba(175, 173, 181, 0.2);
+  padding-left: 2.5rem;
+}
+
+.Article_Card_Discription h3 {
+  color: #afadb5;
+
+  font-size: 1.125rem;
+  margin-top: 2.94rem;
+  font-family: "Encode Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 180%;
+}
+
+.Article_Card_Discription h1 {
+  color: #151411;
+  width: 51rem;
+  font-size: 1.625rem;
+
+  font-family: "Encode Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+  letter-spacing: 0.01625rem;
+}
+
+.Article_Card_Owner {
+  display: flex;
+  align-items: center;
+  gap: 0.5625rem;
+  margin-top: 1.09rem;
+}
+
+.Article_Card_Owner img {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 1.75rem;
+}
+
+.Article_Card_Owner h1 {
+  color: #151411;
+  font-size: 0.875rem;
+  font-family: "Encode Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+}
+
+.Article_Card_Date {
+  color: #afadb5;
+  margin-left: 1.63rem;
+  font-size: 0.875rem;
+  font-family: "Encode Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 180%;
+}

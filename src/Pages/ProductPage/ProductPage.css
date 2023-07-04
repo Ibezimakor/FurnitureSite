@@ -12,7 +12,8 @@
   left: 36.0625rem;
   top: 13.75rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 4rem;
@@ -29,7 +30,8 @@
   left: 26.1875rem;
   top: 19.8125rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -83,10 +85,11 @@
   border-radius: 16px;
 }
 .ProductslideDisplayArticle h1 {
-  width: 453px;
+  width: 484px;
   height: 57px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 44px;
@@ -99,7 +102,8 @@
   width: 416px;
   height: 62px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -168,7 +172,7 @@
   font-weight: 700;
   font-size: 1.125rem;
   line-height: 130%;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
 
   color: #ffffff;
 }
@@ -200,7 +204,8 @@
   border: none;
   background-color: white;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -210,9 +215,9 @@
 .TotalProduct {
   display: flex;
   margin-top: 3.125rem;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-
+  gap: 32.25rem;
   height: 3.5625rem;
 }
 
@@ -227,7 +232,8 @@
   /* width: 17.875rem; */
   height: 3.5625rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 2.75rem;
@@ -246,7 +252,8 @@
   width: 1.75rem;
   height: 1.3125rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1rem;
@@ -285,7 +292,8 @@
 .ProductSerivcePortofolio h3 {
   width: 89px;
   height: 23px;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -299,7 +307,8 @@
   width: 491px;
   height: 114px;
   margin-top: 0.625rem;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 44px;
@@ -312,7 +321,8 @@
   width: 505px;
   height: 64px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -325,7 +335,8 @@
   width: 136px;
   height: 23px;
   margin-top: 1.25rem;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 18px;

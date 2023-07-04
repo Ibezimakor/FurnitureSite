@@ -6,7 +6,8 @@
 }
 
 .ArtcleSideBar1 h2 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.125rem;
@@ -20,7 +21,8 @@
   width: 34rem;
   height: 7.125rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 2.75rem;
@@ -34,7 +36,8 @@
   left: 6.25rem;
   top: 289.875rem;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -101,7 +104,8 @@
 }
 
 .ArtcleWrite h3 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 1.125rem;
@@ -111,7 +115,8 @@
 
 .ArtcleWrite h1 {
   margin-top: 1.3125rem;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 1.5rem;
@@ -126,6 +131,7 @@
   font-weight: 500;
   font-size: 1.0625rem;
   line-height: 180%;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   color: #afadb5;
 }

@@ -14,7 +14,7 @@
   line-height: 130%;
 
   color: #ffb23f;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
 }
 
 .Product-Description h1 {
@@ -22,13 +22,14 @@
   font-weight: 700;
   font-size: 44px;
   line-height: 130%;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
 
   color: #151411;
 }
 
 .Product-Description h3 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -46,7 +47,8 @@
 }
 
 .Product-btn h2 {
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -76,7 +78,8 @@
 .Description h1 {
   height: 57px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 700;
   font-size: 44px;
@@ -90,7 +93,8 @@
   width: 147px;
   height: 32px;
 
-  font-family: "Plus Jakarta Sans";
+  font-family: "Encode Sans", sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;

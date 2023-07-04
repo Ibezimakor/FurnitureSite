@@ -1,20 +1,20 @@
 import React from "react";
 import "./Navbar.css";
-import Logo from "../../../Asset/Funiture-Logo.png";
+import Logo from "../../../Asset/images/Funiture-Logo.png";
 import { HiOutlineShoppingBag } from "react-icons/hi";
 import { BsPerson } from "react-icons/bs";
 import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
   return (
-    <nav className="Funiture-Navbar">
+    <nav className="Funiture_Navbar">
       <NavLink to="/">
-        <div className="Funiture-Logo">
-          <img src={Logo} alt="Funiture-Logo" />
+        <div className="Funiture_Logo">
+          <img src={Logo} alt="Funiture Logo" />
         </div>
       </NavLink>
 
-      <div className="Funiture-Menulist">
+      <div className="Funiture_Menulist">
         <li>
           <NavLink to="/Product"> Product</NavLink>
         </li>
@@ -29,7 +29,7 @@ export default function Navbar() {
         </li>
       </div>
 
-      <div className="Funiture-Account-icon">
+      <div className="Funiture_Account_icon">
         <NavLink>
           <HiOutlineShoppingBag />
         </NavLink>

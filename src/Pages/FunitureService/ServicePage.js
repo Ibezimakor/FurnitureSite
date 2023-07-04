@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../../Componet/Header/Navbar/Navbar";
 import FooterBar from "../../Componet/Footer/FooterBar";
 import "./ServicePage.css";
-import ServiceImage from "../../Asset/ServiceImage.png";
+import ServiceImage from "../../Asset/images/ServiceImage.png";
 import { HiArrowLongRight } from "react-icons/hi2";
 
 export default function ServicePage() {
